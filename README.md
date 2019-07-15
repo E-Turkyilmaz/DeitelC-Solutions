@@ -1,2 +1,2 @@
 # DeitelC-Solutions
-Some solutions for the exercises form Deitel, C How To Program
+Solutions for some of the note-worthy exercises form the book Deitel, C How To Program.
