@@ -20,9 +20,9 @@ int main() {
         printf("Enter number no %d:", count);
         scanf("%d", &num);
         if(num > secondLargest){
-            temp = secondLargest;
             secondLargest = num;
             if(num > largest){
+                temp = largest;
                 largest = num;
                 secondLargest = temp;
             }
