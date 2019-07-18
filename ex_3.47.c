@@ -6,7 +6,8 @@
 int main() {
 
     //  define variables
-    unsigned long long int  population;
+    unsigned long long int  population; //  world population is a large enough number
+                                        //  to cause a stack overflow when defined as an integer
     int count = 1;
     float growthRate;
 
