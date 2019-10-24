@@ -5,4 +5,4 @@ I tried to solve the problems within on the context of each chapter.
 <li>You can contact me from email or within github to suggest adding exercises
     that I didn't include in this repository.</li>
 
-    <email>egmntrkylmz@gmail.com
+    [mailto](egmntrkylmz@gmail.com) 
